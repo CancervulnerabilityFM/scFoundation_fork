@@ -751,3 +751,8 @@ the same cells.
               CELL              GENE           GENE_BATCH
                 │                 │                 │
              N×
+
+
+
+https://figshare.com/articles/dataset/scFoundation_Large_Scale_Foundation_Model_on_Single-cell_Transcriptomics_-_processed_datasets/24049200
+https://huggingface.co/genbio-ai/scFoundation?utm_source=chatgpt.com
