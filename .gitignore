@@ -162,3 +162,4 @@ cython_debug/
 .DS_store
 **/*.DS_store/
 model/models/models.ckpt
+/model
